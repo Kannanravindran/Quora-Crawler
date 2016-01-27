@@ -1,0 +1,2 @@
+Jaccard Similarity Pair:	[(u'5980', u' 31819')]
+Jaccard Similarity Maximum:	1.0

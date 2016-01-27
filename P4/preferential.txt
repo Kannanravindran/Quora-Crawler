@@ -1,0 +1,2 @@
+The Average Path Length is: 4.01881356701
+The Clustering Coefficient is: 0.0023722732492

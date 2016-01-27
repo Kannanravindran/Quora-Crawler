@@ -1,0 +1,5 @@
+#
+# Undirected graph - degree Distribution. G(18, 27). 0 (0.0000) nodes with in-deg > avg deg (3.0), 0 (0.0000) with >2*avg.deg (Wed Oct 14 23:02:22 2015)
+#
+# In-degree	Count (CCDF)
+3	18
